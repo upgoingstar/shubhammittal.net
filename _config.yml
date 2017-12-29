@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-baseurl: "https://upgoingstar.github.io/shubhammittal.net/"
+baseurl: "/"
 url: "https://shubhammittal.net/"
 
 # THEME-SPECIFIC CONFIGURATION
