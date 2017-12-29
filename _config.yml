@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/shubhammittal.net"
 url: "https://shubhammittal.net/"
 
 # THEME-SPECIFIC CONFIGURATION
