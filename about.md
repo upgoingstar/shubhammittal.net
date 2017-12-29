@@ -24,7 +24,7 @@ A DEFCON Village with Talks, Live Demos, Workshops, Discussions, CTFs with a com
 
 ## Presentations/Talks:
 * Empowering Red and Blue Team with OSINT c0c0n 2017 - [(link)](https://www.slideshare.net/reconvillage/empowering-red-and-blue-teams-with-osint-c0c0n-2017)
-* DataSploit - BlackHat Asia 2017 - *[(link)](https://www.slideshare.net/upgoingstar1/datasploit-blackhat-asia-2017)*
+* DataSploit - BlackHat USA 2016/17, ASIA 2017, Europe 2016/17, DEFCON 24 Demolabs - *[(link)](https://www.slideshare.net/upgoingstar1/datasploit-blackhat-asia-2017)*
 * Open Source Intelligence - [(link)](https://www.slideshare.net/upgoingstar1/osint-testcases-for-pentesters-63372193)
 * Post Exploitation using Meterpreter - [(link)](https://www.slideshare.net/upgoingstar1/meterpreter-14053483)
 
