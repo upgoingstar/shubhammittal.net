@@ -21,7 +21,7 @@ A DEFCON Village with Talks, Live Demos, Workshops, Discussions, CTFs with a com
 ## Past Tranings:
 * Tactical OSINT For Pentesters and Cyber Investigators -  *[(link)](http://is-ra.org/c0c0n/ws_4)*
 * Attack Monitoring Using ElasticSearch, Logstash, Kibana -  *[(link)](https://nullcon.net/website/nullcon-2016/training/attack-monitoring-using-elasticsearch-logstash-kibana.php)*
-* Volunteer - Advanced Infrastructure Hacking - BlackHat Asia, EU, US- *[(link)](https://www.blackhat.com/us-17/training/advanced-infrastructure-hacking-2017-edition-4-day.html)*
+* Support Trainer - Advanced Infrastructure Hacking - BlackHat Asia, EU, US- *[(link)](https://www.blackhat.com/us-17/training/advanced-infrastructure-hacking-2017-edition-4-day.html)*
 
 ## Presentations/Talks:
 * Empowering Red and Blue Team with OSINT c0c0n 2017 - [(link)](https://www.slideshare.net/reconvillage/empowering-red-and-blue-teams-with-osint-c0c0n-2017)
